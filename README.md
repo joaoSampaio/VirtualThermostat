@@ -13,10 +13,9 @@ VirtualThermostat is a component I created in my thesis project. It uses [SeekAr
 
 
 <div align="center">
-  <img height="200px" src="raw/arc_sweeps.png"/>
+  <img height="400px" src="img/virtualthermostat_screen.png"/>
 </div>
 
-[Video demo of the sample project](http://www.youtube.com/watch?v=MefE7mjM94M)
 
 
 ## To use it in your code
@@ -53,10 +52,6 @@ This library is not yet released in Maven Central, until then you can add as a l
 # Sample Project
 
 You can see the VirtualThermostat working in the sample application. 
-
-<div align="center">
-  <img height="400px" src="raw/sample_app.png"/>
-</div>
 
 
 # License
